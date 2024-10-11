@@ -1,0 +1,19 @@
+{
+  "name": "ep2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app js"
+  },
+  "keywords": [],
+  "author": "Nicolas",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.0"
+  }
+}
